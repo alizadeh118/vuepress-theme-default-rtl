@@ -1,0 +1,46 @@
+{
+  "name": "vuepress-theme-default-rtl",
+  "version": "0.1.0",
+  "description": "RTL version for VuePress default theme v1.4.0",
+  "keywords": [
+    "vue",
+    "vuepress",
+    "theme",
+    "vuepress-theme",
+    "rtl",
+    "right to left",
+    "persian",
+    "arabic"
+  ],
+  "scripts": {
+    "dev": "vuepress dev example/docs",
+    "build": "vuepress build example/docs"
+  },
+  "homepage": "https://github.com/Alizadeh118/vuepress-theme-default-rtl.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alizadeh118/vuepress-theme-default-rtl.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Hassan Alizadeh",
+    "url": "https://alizadeh118.ir/",
+    "email": "alizadeh118@gmail.com"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@vuepress/plugin-active-header-links": "^1.4.0",
+    "@vuepress/plugin-nprogress": "^1.4.0",
+    "@vuepress/plugin-search": "^1.4.0",
+    "docsearch.js": "^2.5.2",
+    "lodash": "^4.17.15",
+    "moment-jalaali": "^0.9.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vuepress-plugin-container": "^2.0.2",
+    "vuepress-plugin-smooth-scroll": "^0.0.3"
+  },
+  "peerDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
