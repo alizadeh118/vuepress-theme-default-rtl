@@ -153,9 +153,4 @@
     @font-face
         font-family GanjNamehSans
         src url('../fonts/GanjNamehSans-Regular.woff2') format('woff2'), url('../fonts/GanjNamehSans-Regular.woff') format('woff'), url('../fonts/GanjNamehSans-Regular.ttf') format('truetype')
-
-    // override @vuepress/plugin-search style
-    .search-box
-        input
-            background-image url(../images/search.svg) !important
 </style>

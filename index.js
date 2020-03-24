@@ -26,7 +26,7 @@ module.exports = (options, ctx) => {
 
         plugins: [
             ['@vuepress/active-header-links', options.activeHeaderLinks],
-            '@vuepress/search',
+            path.resolve(__dirname, 'search-plugin'),
             '@vuepress/plugin-nprogress',
             ['container', {
                 type: 'tip',
