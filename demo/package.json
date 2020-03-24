@@ -2,7 +2,7 @@
   "scripts": {
     "build": "vuepress build docs",
     "dev": "vuepress dev docs"
-},
+  },
   "devDependencies": {
     "vuepress": "^1.4.0",
     "vuepress-theme-default-rtl": "^1.0.1"

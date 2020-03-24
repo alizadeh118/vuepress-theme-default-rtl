@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/vuepress-theme-default-rtl/',
     lang: 'fa-IR',
     title: 'قالب VuePress',
     description: 'پیش‌نمایش نسخه راست به چپ قالب پیش فرض',

@@ -2,8 +2,8 @@
 
 > ✏️ RTL version for VuePress default theme.
 
-Demo with dummy text:
-[![preview](https://user-images.githubusercontent.com/13087224/77238366-e8c68680-6bec-11ea-8438-78ba4d407764.png)](https://github.com/Alizadeh118/vuepress-theme-default-rtl/)
+[Demo with dummy text](https://alizadeh118.github.io/vuepress-theme-default-rtl/):
+[![preview](https://user-images.githubusercontent.com/13087224/77238366-e8c68680-6bec-11ea-8438-78ba4d407764.png)](https://alizadeh118.github.io/vuepress-theme-default-rtl/)
 
 
 ## Installation
