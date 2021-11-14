@@ -276,7 +276,7 @@ export default {
   .search-box
     margin-right 0
     input
-      left 1rem
+      right 1rem
     .suggestions
       right 0
 
